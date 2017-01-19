@@ -3,14 +3,14 @@ name: Simone Casale Brunet
 bio: Researcher, Software Engeener, PhD
 
 # twitter summary info
-description: My website: that's all
+description: My website, that's all
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://casalebrunet.com
+url: http://casalebrunet.github.io
 #your url: http://casalebruet.github.io
 
 permalink: /:title/
