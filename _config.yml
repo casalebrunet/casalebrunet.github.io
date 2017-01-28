@@ -47,12 +47,12 @@ github: casalebrunet
 email: casalebrunet@gmail.com
 
 authors:
-    johndoe:
+    casalebrunet:
         name: Simone Casale Brunet
         bio: Researcher, Software Engeener, PhD
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: scb
+        twitter: casalebrunet
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
